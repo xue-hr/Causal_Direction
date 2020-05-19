@@ -7,4 +7,4 @@ R codes and sample data for "Inferring Causal Direction Between Two Traits in th
 
 "LDLandCAD_May18.Rdata": Data for example LDL and CAD.
 
-Detailed instructions for using these functions are in "CD_Examples_May18.pdf".
+Detailed instructions for using these functions are in "CD_Examples_May18.pdf". Please email xuexx268@umn.edu for any questions and comments.
